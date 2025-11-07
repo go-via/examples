@@ -13,7 +13,7 @@
   Watch your current CPU, RAM, and disk stats update in real time, ajust the sampling rate and see how fast Via can be.
   
 - **📝 Collaborative Markdown Editor**  
-  Edit markdown files with friends, live—complete with cursors and real-time typing.
+  Edit markdown files with friends, live — complete with real-time cursor positions and typing.
 
 
 ## Share Your Creations
