@@ -5,14 +5,14 @@
 
 ## Example Apps (Coming Soon)
 
-- **🫙 Meme Jar**  
+- **🫙 Meme Jar** - Simple CRUD app.
   Organize your favorite Memes from all over the internet into a neat collection (not another todo list, your welcome!).
   See how easy it is to handle forms and CRUD actions with via.
 
-- **💻 Real-Time System Resource Monitor**  
+- **💻 TopStat** - Real-Time System Resource Monitor
   Watch your current CPU, RAM, and disk stats update in real time, ajust the sampling rate and see how fast Via can be.
   
-- **📝 Collaborative Markdown Editor**  
+- **📝 We.md** - Collaborative Markdown Editor
   Edit markdown files with friends, live — complete with real-time cursor positions and typing.
 
 
