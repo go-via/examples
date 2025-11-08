@@ -9,10 +9,10 @@
   Organize your favorite Memes from all over the internet into a neat collection (not another todo list, your welcome!).
   See how easy it is to handle forms and CRUD actions with via.
 
-- **💻 TopStat** - Real-Time System Resource Monitor
-  Watch your current CPU, RAM, and disk stats update in real time, ajust the sampling rate and see how fast Via can be.
+- **💻 TopStat** - Real-Time System Resource Monitor.
+  Watch your current CPU, RAM, and disk stats update in real time, ajust the sampling rate and see how fast Via can go.
   
-- **📝 We.md** - Collaborative Markdown Editor
+- **📝 We.md** - Collaborative Markdown Editor.
   Edit markdown files with friends, live — complete with real-time cursor positions and typing.
 
 
